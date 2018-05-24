@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Harrisonburg Real Estate Video Blog with Brad Cohen
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,27 +7,27 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Brad Cohen
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    Brad Cohen is a multi-million dollar, top producing REALTOR® with Funkhouser Real Estate Group in the Shenandoah Valley, VA.  He is a full-service agent experienced in buying and selling residential real estate and providing property management services.  His efficient, action-oriented approach to the marketing and selling of real property make him highly specialized in working with Sellers. His personality and straightforward approach make him a true asset in working with Buyers.  His in-depth knowledge of real estate finance and potential rental rates provide a unique and valuable perspective in working with investors. He graduated from James Madison in 2016 and will pursue a masters in Real Estate. He was recognized by the Harrisonburg-Rockingham Association of REALTORS® as Rookie of the Year in 2016 for outstanding sales performance and community engagement and is currently pursuing his GRI designation.  His passion for real estate radiates through all aspects of his life.
+  market: Harrisonburg
+  brand: Funkhouser Real Estate Group
   brokerage:
-  address:
-  phone:
+  address: 401 University Blvd, Harrisonburg, VA 22801
+  phone: 540-830-7239
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Brad@BradCohenHomes.com
+  url: BradCohenHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://bradcohenhomes.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -41,7 +41,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://bradcohenhomes.com
 
 lender:
   show_section: false
@@ -87,8 +87,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#0a7abe'
+  theme_color: '#000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +100,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(238, 238, 238, .75)
 
 buttons:
   button_radius_number: 0
