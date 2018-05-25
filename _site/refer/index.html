@@ -8,7 +8,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-  <title>Harrisonburg Real Estate Video Blog with Brad Cohen</title>
+  <title>Refer A Friend</title>
   <meta name="description" content="Our mission at Funkhouser Real Estate Group is to be your best resource for Harrisonburg real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Funkhouser Real Estate Group, your professional Harrisonburg Real Estate Agents.
 	">
 
@@ -16,7 +16,7 @@
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,200' rel='stylesheet' type='text/css'>
   <!-- style-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="localhost:4000/">
+  <link rel="canonical" href="localhost:4000/refer/">
   <link rel="alternate" type="application/rss+xml" title="Harrisonburg Real Estate Video Blog with Brad Cohen" href="localhost:4000/feed.xml">
   <!-- All that meta crap -->
   <meta name="description" content="Our mission at Funkhouser Real Estate Group is to be your best resource for Harrisonburg real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Funkhouser Real Estate Group, your professional Harrisonburg Real Estate Agents.
@@ -28,9 +28,9 @@
 
   <!--Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Harrisonburg Real Estate Video Blog with Brad Cohen">
-  <meta itemprop="name" content="Harrisonburg Real Estate Video Blog with Brad Cohen">
-  <meta property="og:url" content="localhost:4000/">
+  <meta property="og:title" content="Refer A Friend">
+  <meta itemprop="name" content="Refer A Friend">
+  <meta property="og:url" content="localhost:4000/refer/">
   <meta property="og:description" content="Our mission at Funkhouser Real Estate Group is to be your best resource for Harrisonburg real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Funkhouser Real Estate Group, your professional Harrisonburg Real Estate Agents.">
   <meta property="og:site_name" content="Harrisonburg Real Estate Video Blog with Brad Cohen">
   <meta property="og:locale" content="en_US">
@@ -166,68 +166,58 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
-					<!-- blog feed -->
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/this-is-a-test-post-copy-2.html">this is a test post</a></h2>
-					<!-- <span class="post-meta">
-						May 10, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
+					<form method="post" class="home-value cta-forms" action="http://formspree.io/Brad@BradCohenHomes.com" onsubmit="return setReturn()">
+    <fieldset>
+        <p id="thanks"></p>
 
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
+        <label for="Name">
+        Name
+        </label>
+        <input type="text" name="name" required="" />
 
+        <label for="email">
+        Email
+        </label>
+        <input type="text" name="email" required="" />
 
-						<a href="/this-is-a-test-post-copy-2.html">
-	            
-	            <img src="http://img.youtube.com/vi/SFFy_drFrZs/maxresdefault.jpg" alt="this is a test post" class="post-image" />
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man brai...
-						<p class="readlink"><a href="/this-is-a-test-post-copy-2.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/a-fox-in-space.html">A Fox in Space</a></h2>
-					<!-- <span class="post-meta">
-						May 7, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
+        <label for="phone">
+        Phone
+        </label>
+        <input type="text" name="phone" required="" />
 
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
+        <label for="type">Are they...</label>
+        <select name="type" required="">
+            <option value="Buying" selected="selected">
+                Buying
+            </option>
+            <option value="Selling">
+                Selling
+            </option>
+            <option value="Buying and Selling">
+                Buying and Selling
+            </option>
+        </select>
 
 
-						<a href="/a-fox-in-space.html">
-	            
-	            <img src="http://img.youtube.com/vi/SFFy_drFrZs/maxresdefault.jpg" alt="A Fox in Space" class="post-image" />
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man brai...
-						<p class="readlink"><a href="/a-fox-in-space.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
+        <!-- submit! -->
+        <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm" />
+        <span class="asterisk">*</span>required
+    </fieldset>
+    <!-- Cloud cannon settings field -->
+    <div class="hidden">
+      <input type="hidden" name="_to" value="Brad@BradCohenHomes.com" />
+      <input type="hidden" name="_subject" value="Referral form submission from your Vyral Video Blog" />
+      <input type="text" name="_gotcha" />
+    </div>
+</form>
+<script>
+function setReturn(){
+  localStorage.setItem("thanks", "Your request was sent successfully!");
+  document.getElementById("thanks").innerHTML =    localStorage.getItem("thanks");
+  localStorage.clear();
+}
+</script>
+
 
 				</div>
 
@@ -441,7 +431,7 @@
   
   
   
-    <!-- left-align -->
+    <!-- right-align -->
     
     
   
@@ -458,11 +448,6 @@
 
     <!-- Page numbers -->
     <span class="numbers">
-  
-  	
-  	  <span class="number current">1</span>
-  	
-    
   
   </span>
 
