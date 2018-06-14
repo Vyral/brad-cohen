@@ -31,7 +31,7 @@ What does this mean for home values? **Values have been rising and continue to r
 {% include pullquote.html %}
 {: .present-before-paste}
 
-Interest rates have also been contributing to our market conditions. Over the past couple years, they have been at historically low levels, but they have recently started climbing. Interestingly enough, though, they dropped again this past week. They were above 4.5%, but they have dropped back down to that level.
+Interest rates have also been contributing to our market conditions. Over the past couple of years, they have been at historic low levels, but they have recently started climbing. Interestingly enough, though, they dropped again this past week. They were above 4.5%, but they have dropped back down to that level.
 {: .present-before-paste}
 
 If you are a seller, this means you can buy or sell your property quickly and for top dollar. If you are a buyer, this means you need to be ready to make an offer when an available home comes along that meets your criteria. You also need to be able to see a home quickly once it hits the market.
