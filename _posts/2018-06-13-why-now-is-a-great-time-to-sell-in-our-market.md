@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Great Time to Sell in Our Market
-date: 2018-06-13 18:31:34
+date: 2018-06-13 18:31:00
 tags:
 excerpt: >-
   Inventory is low and home values are rising in our market. This means it is a
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cohen-youtube.jpg
-youtube_code: 2OFfgP5AqK4
+youtube_code: LAYNsDtSZ70
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Right now, the Harrisonburg and Rockingham County area is in a very strong selle
 This means **sellers can command top dollar for their properties because buyers have limited options to choose from and there is high competition between them.** Inventory is the main reason we are in a seller’s market. Our total supply is around 365 available homes for sale, which is down 20 homes from the previous year and almost 100 compared to the year before that.
 {: .present-before-paste}
 
-What does this mean for home values? **Values have been rising and continue to rise based on the dwindling inventory levels.** It is basic economics—as supply goes down, demand goes up, and so do prices. &nbsp;
+What does this mean for home values? **Values have been rising and continue to rise based on the dwindling inventory levels.** It is basic economics—as supply goes down, demand goes up, and so do prices.  
 {: .present-before-paste}
 
 {% include pullquote.html %}
