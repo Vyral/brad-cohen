@@ -26,7 +26,7 @@ This is a very common scenario right now. In fact, I’ve worked with three diff
 
 Thankfully, there are ways you can be successful in standing out from among multiple offers. The key is to make your offer as attractive as possible, which can be achieved by implementing the following tips:
 
-**1. Submit a large earnest money deposit.** In our market, it’s not uncommon to see very low earnest money deposits. Therefore, submitting a larger one can go a long way in showing the seller how serious you are.
+**1. Submit a large earnest money deposit.** In our market, it is common to see very low earnest money deposits. Therefore, submitting a larger one can go a long way in showing the seller how serious you are.
 
 {% include pullquote.html %}
 
@@ -34,6 +34,6 @@ Thankfully, there are ways you can be successful in standing out from among mult
 
 **3. Give the seller time to move.** Multiple offer situations can be just as overwhelming for sellers as they can be for buyers. So it’s important to be mindful of the seller’s needs when submitting an offer on their home. Allowing them a little extra time to arrange their transition between properties can make your offer more attractive.
 
-**4. Write your best offer.** Unfortunately, buyers have much less room to negotiate when faced with multiple offer situations. With so many choices at their disposal, sellers feel less pressure to be accomodating. You may want to consider adding an executive summary to your offer. A clean, thorough, attractive offer will carry the greatest chance at success.
+**4. Write your best offer.** Unfortunately, buyers have much less room to negotiate when faced with multiple offer situations. With so many choices at their disposal, sellers feel less pressure to be accommodating. You may want to consider adding an executive summary to your offer. A clean, thorough, attractive offer will carry the greatest chance at success.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
