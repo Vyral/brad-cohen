@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 5 Questions Will Help You Decide if You’re Really Ready to Buy
-date:
+date: 2018-08-14 19:40:31
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -37,5 +37,3 @@ Here are five helpful questions you can ask yourself to determine whether you’
 {% include pullquote.html %}
 
 If you have any more questions about this topic or are thinking of buying or selling a home, please feel free to reach out to me. I would be happy to help you
-
-&nbsp;
