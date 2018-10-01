@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons to Consider Selling Your Home This Fall
-date:
+date: 2018-10-01 16:43:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -33,5 +33,3 @@ We’re getting into the cooler weather now, so I thought it would be a good tim
 **4. More flexibility for improvements.** I can’t tell you how many sellers I’ve worked with who feel so much stress when it comes to getting their home ready for the market. They feel like they’re under the gun. If you’re selling in fall, you have the entire summer to make sure your home looks its best when it hits the market. It gives you the flexibility to enjoy your summer and plan your improvements in advance.
 
 These are just a few reasons why sellers should consider selling their home in the fall. If you have any questions for me in the meantime about selling your home or about the real estate market in general, don't’ hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
