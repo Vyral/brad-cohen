@@ -30,7 +30,7 @@ Before selling your home, make sure you have these six buyer turn-offs under con
 
 {% include pullquote.html %}
 
-**4. Cluttered rooms.** 15% of buyers are disappointed by a cluttered room. The solution is simple: clean up. It makes the house feel larger and removes distraction, helping the buyer feel they can make it their own.
+**4. Cluttered rooms.** 15% of buyers are disappointed by a cluttered room. The solution is simple: Clean up. It makes the house feel larger and removes distraction, helping the buyer feel they can make it their own.
 
 **5. Over-the-top decor.** 14% report this as unappealing. While a certain style may work for you, you want buyers to see a house full of possibilities. Taking away the more outrageous decorations can help the imaginations of potential buyers run wild.
 
