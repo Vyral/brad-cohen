@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: OfBRvIQkc48
+youtube_code: JNpEQvy2QA
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ However, there are a couple factors that could disrupt this trajectory for those
 
 {% include pullquote.html %}
 
-**2. Affordability is dropping and buyer demand may follow.** For someone who has a fixed monthly budget for their housing expenses, as housing prices and interest rates continue to rise, their buying power decreases. Where they were once able to buy a $250,000 home, they may no longer be able to afford that much anymore. If you’re trying to capitalize and get top dollar for your home, the time is now.<br>&nbsp;
+**2. Affordability is dropping and buyer demand may follow.** For someone who has a fixed monthly budget for their housing expenses, as housing prices and interest rates continue to rise, their buying power decreases. Where they were once able to buy a $250,000 home, they may no longer be able to afford that much anymore. If you’re trying to capitalize and get top dollar for your home, the time is now.<br> 
 
 **3. More and more home sellers are reducing their prices.** With the seasonality of our market, it’s to be expected that prices will come down in the late fall and into the winter. However, the combination of increased interest, decreased affordability, decreased demand, and sustained high prices is leading to what we would expect to see: a more dramatic decrease in values.
 
@@ -40,5 +40,3 @@ So what should we take away from this?
 If you’re thinking about selling your home, you really shouldn’t wait to list. We can’t tell what’s going to happen over the next six months, so the time to act is now. For homebuyers, bear in mind that as those mortgage interest rates continue to rise, your buying power may decrease, so you should also consider acting quickly. Plus, who wouldn’t want to get into a new home before the new year?
 
 If you have any questions about buying or selling in the current housing conditions we’re experiencing, feel free to give me a call.
-
-&nbsp;
