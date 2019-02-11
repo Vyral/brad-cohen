@@ -23,7 +23,7 @@ youtube_code: dQkTGS0u7Bo
 
 {% include youtube.html %}
 
-When I talk to both buyers and sellers, there’s no shortage of the question: “How does one know if a listing is overpriced?
+When I talk to both buyers and sellers, there’s no shortage of the question: “How does one know if a listing is overpriced?"
 
 There are two main factors that enter into the equation of a home’s true value: **its price and condition.** Buyers are looking for value, which is a direct reflection of the price versus the condition of the property.
 
