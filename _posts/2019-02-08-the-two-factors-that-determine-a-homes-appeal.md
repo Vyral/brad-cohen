@@ -39,8 +39,8 @@ To ensure that your home isn’t overpriced, reduce the price in accordance with
 
 Two signs, in particular, are all the evidence you need to know your home is overpriced:
 
-1. There have been no showings for three weeks.
+1.There have been no showings for three weeks.
 
-2. You haven’t had a single offer after 10 showings.
+2.You haven’t had a single offer after 10 showings.
 
 If you have any questions or need more information about all things real estate, please feel free to contact me. I’m more than happy to help you with your real estate needs, and I look forward to speaking with you soon! &nbsp;
