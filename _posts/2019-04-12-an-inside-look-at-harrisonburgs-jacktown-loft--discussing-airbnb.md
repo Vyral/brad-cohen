@@ -23,7 +23,7 @@ youtube_code: NjHP4oDBR1g
 
 Anyone who knows me knows that I’m a huge advocate for and frequenter of Jack Brown’s, Billy Jack’s, and The Hideaway. What you may not know is that there’s an apartment space atop all of it called **Jacktown Loft**, and I’ve been granted the unique privilege to give you a tour of it. While on our tour, we’ll also discuss Airbnb and the benefits of renting out your property. &nbsp;
 
-Airbnb made some major waves when it entered the scenes a few years ago as an alternative to hotels for vacationers. Its purpose has widened beyond just vacation stays and is a popular option for tourists, people traveling on business, etc. It’s opened the door for people who want to stay in a non-hotel setting while away from home.&nbsp;
+Airbnb made some major waves when it entered the scene a few years ago as an alternative to hotels for vacationers. Its purpose has widened beyond just vacation stays and is a popular option for tourists, people traveling on business, etc. It’s opened the door for people who want to stay in a non-hotel setting while away from home.&nbsp;
 
 Harrisonburg has become a hub for tourism due to our magnificent downtown cuisine scene, and the Jacktown Loft is no exception to this; **sitting right above two of the most popular bar-restaurants in the downtown area, it’s become a highly sought-after place for tourists to stay.** If this interests you, be sure to contact the owner or check it out on Airbnb.&nbsp;
 
