@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Great Time to Sell a Townhouse
-date: 2019-06-11 19:20:13
+date: 2019-06-11 19:20:00
 tags:
   - Real Estate
   - Home Seller Tips
