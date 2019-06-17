@@ -9,7 +9,7 @@ excerpt: >-
   If you’ve got a townhouse you’ve been thinking of selling, it’s time to get
   off the fence and make a move.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Funkhouser+Real+Estate+Group-+Why+Now+Is+a+Great+Time+to+Sell+a+Townhouse.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Brad+Cohen%2C+Realtor-+Why+Now+Is+a+Great+Time+to+Sell+a+Townhouse+(1).mp4
 pullquote: >-
   Whether you bought a townhouse as a starter home or an investment property,
   now is the time to sell.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '-A4milMqVNE'
+youtube_code: nIO-HBKRhHc
 ---
 
 {% include youtube.html %}
