@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Days to List Your Home (and Which Days Not to)
-date:
+date: 2019-06-25 15:53:44
 tags:
   - Home Seller Tips
   - Real Estate
