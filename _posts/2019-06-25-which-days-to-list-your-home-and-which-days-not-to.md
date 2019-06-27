@@ -36,7 +36,7 @@ What about Friday? Well, don’t you like to know what you’re doing this weeke
 
 When I get a call on a weekend about a brand-new listing that’s hit the market, my weekend plans vanish. Whether I’m out showing homes to a client or skydiving (as I often like to do on the weekends), I have no choice but to go see it in these market conditions. Why not make everyone’s lives easier and put your home in front of as many eyes as possible by listing before then?
 
-**So when are the best days to list?****Preferably Tuesdays or Wednesdays.** This gives consumers the most time to see it while it syndicates out to Trulia, Zillow, Realtor.com, etc. This also makes your life more convenient because you can plan to be out of the house once the weekend hits and showings start.&nbsp;
+**So when are the best days to list?&nbsp;****Preferably Tuesdays or Wednesdays.** This gives consumers the most time to see it while it syndicates out to Trulia, Zillow, Realtor.com, etc. This also makes your life more convenient because you can plan to be out of the house once the weekend hits and showings start.&nbsp;
 
 To be clear, if you’re a buyer, this doesn’t mean you shouldn’t call me on the weekends if you see a new home you like. Please do\!&nbsp;
 
