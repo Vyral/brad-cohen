@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Caused the Inventory Crisis in Our Market?
-date: 2019-07-15 17:04:30
+date: 2019-07-15 17:04:00
 tags:
   - Real Estate
   - Home Buyer Tips
