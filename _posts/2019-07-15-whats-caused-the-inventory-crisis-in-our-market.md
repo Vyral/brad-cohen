@@ -23,7 +23,7 @@ youtube_code: vGdgx26sflI
 
 <br>Our company recently did an event called “Ignite Harrisonburg” where we brought together about 140 community leaders to discuss the issues surrounding housing and development and to get an idea of what people really need.&nbsp;
 
-After we did some quick surveys and came up with a consensus, **we found that the central theme was affordability:** 66% of people said we needed more single-family homes in the $150,000 to $400,000 price range.&nbsp;
+After we did some quick surveys and came up with a consensus, **we found that the central theme was affordability:** 66% of people said we needed more single-family homes in the $150,000 to $300,000 price range.&nbsp;
 
 What’s caused this affordability crisis? It all boils down to three factors:
 
