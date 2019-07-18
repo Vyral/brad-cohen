@@ -29,7 +29,7 @@ What’s caused this affordability crisis? It all boils down to three factors:
 
 **1\. Resale prices are up.** This is largely due to dwindling supply and rising demand amongst buyers. Inventory has been tight in all price ranges and that has made things challenging for buyers.
 
-**2\. There are similar housing needs across demographics.** For the first time, millennials and retirees looking to downsize are searching for the same types of properties—starter homes in the $150,000 to $400,000 price range I mentioned above. That’s where the demand is, and that’s where the two largest demographics in the market are both looking.
+**2\. There are similar housing needs across demographics.** For the first time, millennials and retirees looking to downsize are searching for the same types of properties—starter homes in the $150,000 to $300,000 price range I mentioned above. That’s where the demand is, and that’s where the two largest demographics in the market are both looking.
 
 {% include pullquote.html %}
 
