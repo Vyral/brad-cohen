@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Homeownership Still a Good Investment?
-date:
+date: 2019-07-30 14:06:58
 tags:
   - Home Buyer Tips
   - Real Estate
