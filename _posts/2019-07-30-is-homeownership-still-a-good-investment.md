@@ -28,9 +28,11 @@ On the national and global level, there’s also a lot of uncertainty about the 
 
 {% include pullquote.html %}
 
-A recent study from the Federal Reserve Bank showed that despite all this chatter, 65% of Americans still think that owning real estate is a strong investment. This is a 9% increase since 2014. Here’s why homeownership is still considered such a good investment:
+[A recent study](https://www.simplifyingthemarket.com/en/2019/07/11/americans-powerful-belief-in-homeownership-as-an-investment/?a=324829-9611abae0c2e40673d4fb7162e87f2bc){: target="_blank"} from the Federal Reserve Bank showed that despite all this chatter, 65% of Americans still think that owning real estate is a strong investment. This is a 9% increase since 2014. Here’s why homeownership is still considered such a good investment:
 
-Your home is a forced savings plan. By paying your mortgage every month, you’re building equity in your property, which you can then use for other investments like a kitchen remodel or a home equity line of credit. Equity in your home is one of the most accessible forms of cash out there.&nbsp;<br>The wealthiest 1% either have their hands in real estate or have made their money through real estate. Most everyone ranks real estate as the best investment for the long-term growth of your net worth—even over stocks, bonds, mutual funds, precious metals, and savings accounts.
+**1\. Your home is a forced savings plan.** By paying your mortgage every month, you’re building equity in your property, which you can then use for other investments like a kitchen remodel or a home equity line of credit. Equity in your home is one of the most accessible forms of cash out there.&nbsp;
+
+<br>**2\. The wealthiest 1% either have their hands in real estate or have made their money through real estate.** Most everyone ranks real estate as the best investment for the long-term growth of your net worth—[even over stocks, bonds, mutual funds, precious metals, and savings accounts.](https://www.simplifyingthemarket.com/en/2019/06/28/americans-rank-real-estate-best-investment-for-6-years-running-infographic/?a=324829-9611abae0c2e40673d4fb7162e87f2bc){: target="_blank"}
 
 So in the end, don’t listen to all the hype. Talk to your trusted financial advisors, tax advisors, and real estate agents who already have their fingers on the pulse of the market. They’ll help you to figure out what’s going on before you make any decisions.
 
