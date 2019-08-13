@@ -25,9 +25,9 @@ The biggest upside with this kind of investment is cash flow: Student housing ty
 
 {% include pullquote.html %}
 
-The biggest downside is maintenance. **Students are typically very rough on rental properties, so your turnover costs can be a lot higher.** It’s possible to mitigate risk by collecting higher security deposits, cleaning fees, etc., but know that if they really tear the place up, it’s a pain to collect back on it. I typically tell people to count on at least a full month’s rent as a maintenance reserve for the year.
+The biggest downside is maintenance.&nbsp;**Students are typically very rough on rental properties, so your turnover costs can be a lot higher.&nbsp;**It’s possible to mitigate risk by collecting higher security deposits, cleaning fees, etc., but know that if they really tear the place up, it’s a pain to collect back on it. I typically tell people to count on at least a full month’s rent as a maintenance reserve for the year.
 
-**I really recommend hiring a property manager.** The headaches of dealing with potentially four different tenants with four different sets of parents or guarantors, and joint leases vs separate leases, and knowing when leasing season is at its prime are all nuances that you want a professional to handle.&nbsp;
+**I really recommend hiring a property manager.** The headaches of dealing with potentially four different tenants with four different sets of parents or guarantors, joint leases vs. separate leases, and knowing when leasing season is at its prime are all nuances that you want a professional to handle.&nbsp;
 
 Stay tuned for part two with more Harrisonburg-specific considerations.
 
