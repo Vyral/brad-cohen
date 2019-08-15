@@ -8,13 +8,13 @@ excerpt: >-
   Thinking about investing in student housing in Harrisonburg? Here’s some
   information you should have before starting the process.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/What+You+Need+to+Know+About+Buying+Student+Housing+in+Harrisonburg.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Home+Ownership+as+an+Investment.mp4
 pullquote: I recommend hiring a property manager.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/cohen-youtube-2.jpg
-youtube_code: i97Fy3mBf5c
+youtube_code: 3tVkU7fLB7Q
 ---
 
 {% include youtube.html %}
