@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Continuing our Discussion on Student Housing in Harrisonburg
-date:
+date: 2019-08-26 19:21:35
 tags:
 excerpt: 'Watch: Things to consider before investing in Harrisburg student housing'
 enclosure: 'If you’re interested in investing in student housing, this message is for you.'
