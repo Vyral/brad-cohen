@@ -4,7 +4,7 @@ title: Continuing our Discussion on Student Housing in Harrisonburg
 date: 2019-08-26 19:21:00
 tags:
   - Home Buyer Tips
-excerpt: 'Watch: Things to consider before investing in Harrisonburg student housing'
+excerpt: 'If you’re interested in investing in student housing, this message is for you.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Continuing+our+Discussion+on+Student+Housing+in+Harrisonburg.mp4
 pullquote: >-
