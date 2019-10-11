@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/cohen-youtube-1-1.jpg
 youtube_code: gyyHFkdwAj8
 ---
 
-{% include youtube.html %} If your energy bills are higher than you would like, follow these four tips to make your home more energy efficient today.&nbsp;
+{% include youtube.html %} <center>If your energy bills are higher than you would like, follow these four tips to make your home more energy efficient today.</center>&nbsp;
 
 Energy-efficient homes are en vogue right now, and for good reason. Not only are they more environmentally friendly, but they also help homeowners save a lot of money on their energy bills each month. Best of all, you can make your home more energy efficient with just a few simple changes. Here are four simple tips you can start with:&nbsp;
 
