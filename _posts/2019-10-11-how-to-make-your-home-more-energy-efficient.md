@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Your Home More Energy Efficient
-date:
+date: 2019-10-11 14:24:03
 tags:
 excerpt: >-
   If your energy bills are higher than you would like, follow these four tips to
