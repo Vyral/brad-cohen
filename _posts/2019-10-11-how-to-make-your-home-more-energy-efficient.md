@@ -35,6 +35,6 @@ Energy-efficient homes are en vogue right now, and for good reason. Not only are
 
 <br>**4\. Maintain your HVAC system.** A poorly maintained HVAC system equates to an uncomfortable living space and high energy bills to boot. So always make sure you’re changing your air filters and ordering annual (or bi-annual) check-ups to keep your HVAC in working order.
 
-If you would like an energy audit on your home before or after you implement these tips, please reach out to Charles Hendricks of Gaines Group Architects by phone at (540) 437-0012 or by visiting his company’s website: [www.TheGainsGroup.com.](www.TheGainsGroup.com. )
+If you would like an energy audit on your home before or after you implement these tips, please reach out to Charles Hendricks of Gaines Group Architects by phone at (540) 437-0012 or by visiting his company’s website: [www.](TheGainesGroup.com)[TheGainesGroup.com](www.TheGainesGroup.com)&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
