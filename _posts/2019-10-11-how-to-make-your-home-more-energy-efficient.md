@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Your Home More Energy Efficient
-date: 2019-10-11 14:24:03
+date: 2019-10-11 14:24:00
 tags:
 excerpt: >-
   If your energy bills are higher than you would like, follow these four tips to
@@ -12,7 +12,7 @@ pullquote: >-
   also help homeowners save a lot of money on their energy bills each month.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cohen-youtube-1-1.jpg
 youtube_code: gyyHFkdwAj8
 ---
