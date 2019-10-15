@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   If your energy bills are higher than you would like, follow these four tips to
   make your home more energy efficient today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/How+to+Make+Your+Home+More+Energy+Efficient.mp4
 pullquote: >-
   Not only are energy-efficient homes more environmentally friendly, but they
   also help homeowners save a lot of money on their energy bills each month.
