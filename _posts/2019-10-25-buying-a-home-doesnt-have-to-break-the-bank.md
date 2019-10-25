@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying a Home Doesn’t Have to Break the Bank
-date:
+date: 2019-10-25 14:39:48
 tags:
 excerpt: How much does a Harrisonburg home really cost? Let’s discuss.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/cohen-youtube-2-1.jpg
 youtube_code: zqdQgAjfp44
 ---
 
-{% include youtube.html %}<center>How much does a Harrisonburg home really cost? Let’s discuss.</center>
+{% include youtube.html %}
+
+<center>How much does a Harrisonburg home really cost? Let&rsquo;s discuss.</center>
+
+&nbsp;
 
 Many people are unclear on what it really costs to buy a home. Fortunately, the total expenses of this purchase can be broken down into two categories: upfront expenses and cash to close, both of which we’ll break down for you today.&nbsp;
 
