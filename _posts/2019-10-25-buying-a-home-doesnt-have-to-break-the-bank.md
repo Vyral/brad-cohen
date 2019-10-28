@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying a Home Doesn’t Have to Break the Bank
-date: 2019-10-25 14:39:48
+date: 2019-10-25 14:39:00
 tags:
 excerpt: How much does a Harrisonburg home really cost? Let’s discuss.
 enclosure:
@@ -15,11 +15,11 @@ youtube_code: zqdQgAjfp44
 
 {% include youtube.html %}
 
-<center>How much does a Harrisonburg home really cost? Let&rsquo;s discuss.</center>
+<center><em>How much does a Harrisonburg home really cost? Let&rsquo;s discuss.</em></center>
 
 &nbsp;
 
-Many people are unclear on what it really costs to buy a home. Fortunately, the total expenses of this purchase can be broken down into two categories: upfront expenses and cash to close, both of which we’ll break down for you today.&nbsp;
+Many people are unclear about what it really costs to buy a home. Fortunately, the total expenses of this purchase can be broken down into two categories: upfront expenses and cash to close, both of which we’ll break down for you today.&nbsp;
 
 Before we do that, though, let me share an interesting fact: Did you know that you could buy a home in Harrisonburg with just $2,000? It’s true, and as we share the cost breakdown I mentioned earlier, you’ll quickly see how. Let’s dive right in.
 
@@ -27,7 +27,7 @@ Before we do that, though, let me share an interesting fact: Did you know that y
 
 {% include pullquote.html %}
 
-**Then there’s the matter of your cash to close, which will consist of your down payment and closing costs.** Your down payment will vary depending on the loan product you use, but there are options that can allow you to purchase a property with 100% financing. In other words, you might not have to put any money down at all. Closing costs will also vary, depending on the lender you work with, but will most often range between 2.5% and 3% of the purchase price. In some cases, though, you can negotiate to have the seller pay them for you.&nbsp;
+**Then there’s the matter of your cash to close, which will consist of your down payment and closing costs.** Your down payment will vary depending on the loan product you use, but some options allow you to purchase a property with 100% financing. In other words, you might not have to put any money down at all. Closing costs will also vary, depending on the lender you work with, but will most often range between 2.5% and 3% of the purchase price. In some cases, though, you can negotiate to have the seller pay them for you.&nbsp;
 
 So, **hypothetically, a buyer whose out-of-pocket expenses are $2,000 could get a loan with 100% financing and could have the seller pay their closing costs.** This means your entire home purchase could run you $2,000 out of pocket.&nbsp;
 
