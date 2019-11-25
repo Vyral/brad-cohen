@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Break the “5-Year Rule” of Homeownership?
-date: 2019-11-25 19:06:15
+date: 2019-11-25 19:06:00
 tags:
 excerpt: >-
   Generally, homeowners shouldn’t sell for at least five years. However, here
@@ -17,7 +17,7 @@ youtube_code: CH9nTO4ra5I
 
 {% include youtube.html %}
 
-<center>Generally, homeowners shouldn&rsquo;t sell for at least five years. However, here are three exceptions to that rule.</center>
+<center><em>Generally, homeowners shouldn&rsquo;t sell for at least five years. However, here are three exceptions to that rule.</em></center>
 
 &nbsp;
 
