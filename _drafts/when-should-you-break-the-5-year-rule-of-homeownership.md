@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/cohen-youtube-3-1.jpg
 youtube_code: CH9nTO4ra5I
 ---
 
-{% include youtube.html %}Generally, homeowners shouldn’t sell for at least five years. However, here are three exceptions to that rule.
+{% include youtube.html %}<center>Generally, homeowners shouldn’t sell for at least five years. However, here are three exceptions to that rule.</center>
 
 If you own your home, or have ever thought about buying one, it’s important to know about the “5-year rule.” Essentially, it’s a widely-accepted concept that you shouldn’t sell your home until you’ve lived in it for at least five years.
 
