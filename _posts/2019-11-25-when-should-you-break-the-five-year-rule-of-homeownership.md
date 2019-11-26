@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Should You Break the “5-Year Rule” of Homeownership?
+title: When Should You Break the “Five-Year Rule” of Homeownership?
 date: 2019-11-25 19:06:00
 tags:
 excerpt: >-
@@ -21,9 +21,9 @@ youtube_code: CH9nTO4ra5I
 
 &nbsp;
 
-If you own your home, or have ever thought about buying one, it’s important to know about the “5-year rule.” Essentially, it’s a widely-accepted concept that you shouldn’t sell your home until you’ve lived in it for at least five years.
+If you own your home, or have ever thought about buying one, it’s important to know about the “five-year rule.” Essentially, it’s a widely-accepted concept that you shouldn’t sell your home until you’ve lived in it for at least five years.
 
-**Generally speaking, if you sell within five years of buying a home, you probably won’t make up your costs on selling.** On the contrary, you may end up having to bring money to the table. However, there are three notable exceptions to this rule, which I’m going to share with you today:
+**Generally speaking, if you sell a home within five years of buying it, you probably won’t recoup the costs from that sale.** On the contrary, you may end up having to bring money to the table. However, there are three notable exceptions to this rule:&nbsp;
 
 **1\. The property values in your neighborhood start to skyrocket.** If you can time the market really well or if there’s a crazy demand for homes in your neighborhood, then that’s the time to sell. This is exactly why I’m selling my home right now. I only bought it two years ago, but the neighborhood has been built out since and I’m already sitting on a lot of equity. I should be able to walk away from the sale and put a good amount of the profit I make into my renovation project.
 
@@ -33,4 +33,4 @@ If you own your home, or have ever thought about buying one, it’s important to
 
 **3\. You have a change in your lifestyle or mentality.** If you’ve gone through a job relocation, divorce, or you’re simply unhappy with the space, it’s not worth compromising your happiness to stay in the house. While many things that you dislike about your house can be fixed with renovations, not everything can.
 
-If you have any questions about what certain renovations might cost or if you’re curious about what you can sell for your home right now, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions about what certain renovations might cost or if you’re curious about what you can sell your home for right now, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
