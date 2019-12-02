@@ -21,9 +21,9 @@ youtube_code: CH9nTO4ra5I
 
 &nbsp;
 
-If you own your home, or have ever thought about buying one, it’s important to know about the “five-year rule.” Essentially, it’s a widely-accepted concept that you shouldn’t sell your home until you’ve lived in it for at least five years.
+If you own your home, or have ever thought about buying one, it’s important to know about the “five-year rule.” Essentially, it’s a widely-accepted concept that you shouldn’t sell your home until you’ve owned it for at least five years.
 
-**Generally speaking, if you sell a home within five years of buying it, you probably won’t recoup the costs from that sale.** On the contrary, you may end up having to bring money to the table. However, there are three notable exceptions to this rule:&nbsp;
+Generally speaking, if you sell a home within five years of buying it, you probably won’t recoup the costs from that sale. You may even end up having to bring money to the table. However, there are three notable exceptions to this rule:
 
 **1\. The property values in your neighborhood start to skyrocket.** If you can time the market really well or if there’s a crazy demand for homes in your neighborhood, then that’s the time to sell. This is exactly why I’m selling my home right now. I only bought it two years ago, but the neighborhood has been built out since and I’m already sitting on a lot of equity. I should be able to walk away from the sale and put a good amount of the profit I make into my renovation project.
 
