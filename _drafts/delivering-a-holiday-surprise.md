@@ -3,14 +3,14 @@ layout: post
 title: Delivering a Holiday Surprise!
 date:
 tags:
-excerpt:
+excerpt: 'Happy holidays, I have a surprise for you in today’s video!'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/cohen-youtube-1-2.jpg
+youtube_code: okGulmSmEsU
 ---
 
 {% include youtube.html %}Happy holidays, I have a surprise for you in today’s video\!
