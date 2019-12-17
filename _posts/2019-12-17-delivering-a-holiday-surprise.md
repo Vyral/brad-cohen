@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delivering a Holiday Surprise!
-date:
+date: 2019-12-17 19:09:06
 tags:
 excerpt: 'Happy holidays, I have a surprise for you in today’s video!'
 enclosure:
