@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Delivering a Holiday Surprise!
-date: 2019-12-17 19:09:06
+date: 2019-12-17 19:09:00
 tags:
 excerpt: 'Happy holidays, I have a surprise for you in today’s video!'
 enclosure:
@@ -19,4 +19,4 @@ youtube_code: okGulmSmEsU
 
 &nbsp;
 
-Happy holidays everyone\! I hope you all have an excellent holiday season. Thank you so much to everyone who supported me this year. I’m looking forward to an exceptional 2020. Watch the video above starting at 0:17 for a surprise\! (Hint: I sing and dance for you.) Enjoy the season\!
+Happy holidays, everyone\! Thank you so much to everyone who supported me this year, and I’m looking forward to an exceptional 2020. Watch the video above starting at 0:17 for a surprise\! (Hint: I sing and dance for you.) I hope you enjoy the season with your friends and family\! To see my full holiday message, watch this short video.&nbsp;
