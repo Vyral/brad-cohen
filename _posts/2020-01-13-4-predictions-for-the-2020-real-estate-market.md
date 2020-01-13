@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Predictions for the 2020 Real Estate Market
-date: 2020-01-13 15:08:03
+date: 2020-01-13 15:08:00
 tags:
 excerpt: >-
   Today I’m sharing what respected authorities like the National Association or
@@ -17,7 +17,7 @@ youtube_code: BsxwIf8I1KI
 
 {% include youtube.html %}
 
-<center>Today I&rsquo;m sharing what respected authorities like the National Association or Realtors and the Mortgage Bankers Association are predicting for 2020.</center>
+<center>Today I&rsquo;m sharing what respected authorities like the National Association of Realtors and the Mortgage Bankers Association are predicting for 2020.</center>
 
 &nbsp;
 
@@ -29,7 +29,7 @@ Despite dwindling inventory, three of the four experts I just mentioned are pred
 
 {% include pullquote.html %}
 
-Six of the expert entities that keep track of home prices are all predicting an increase in prices over the course of 2020—quite in line with what we saw in 2019.&nbsp;
+Six of the expert entities that keep track of home prices are all predicting an increase in prices throughout 2020—quite in line with what we saw in 2019.&nbsp;
 
 **A recession isn’t likely, and if it does occur here, it won’t be severe.** Last year, the number of forecasters predicting a 2020 recession was significant, but more recently, it has gone down quite a bit. No one knows for certain what will happen, but the experts do agree that, should a recession happen this year, its effect on the real estate market will be minimal.&nbsp;
 
