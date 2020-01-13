@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/cohen-youtube-2-2.jpg
 youtube_code: BsxwIf8I1KI
 ---
 
-{% include youtube.html %}Today I’m sharing what respected authorities like the National Association or Realtors and the Mortgage Bankers Association are predicting for 2020.
+{% include youtube.html %}<center>Today I’m sharing what respected authorities like the National Association or Realtors and the Mortgage Bankers Association are predicting for 2020.</center>
 
 On the tail of an interesting 2019, I’m going to give a forecast for the real estate market in 2020. Here’s what experts are predicting:&nbsp;
 
