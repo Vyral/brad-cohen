@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/cohen-youtube-3-2.jpg
 youtube_code: LWFJgtQCz7I
 ---
 
-{% include youtube.html %}Why are smaller homes becoming more and more popular? Find out today.
+{% include youtube.html %}<center>Why are smaller homes becoming more and more popular? Find out today.</center>
 
 Over the past few years, we’ve noticed that smaller homes are becoming increasingly popular among homebuyers. Why is that, though?
 
