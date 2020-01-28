@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cohen-youtube-3-2.jpg
-youtube_code: 5uJGoLhhgY4
+youtube_code: RhZ5EP2iQqo
 ---
 
 {% include youtube.html %}
