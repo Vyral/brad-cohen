@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Info for Harrisonburg Homebuyers and Sellers
-date:
+date: 2020-02-13 16:16:53
 tags:
 excerpt: >-
   I’ve taken a look at the latest numbers, and I have important advice to share
@@ -16,7 +16,11 @@ youtube_alternate_image: /uploads/cohen-youtube-4.jpg
 youtube_code: 7bSE1UzUADk
 ---
 
-{% include youtube.html %}<center>I’ve taken a look at the latest numbers, and I have important advice to share with homebuyers and sellers in the Harrisonburg area. Here’s what you need to know about the 2020 market.</center>
+{% include youtube.html %}
+
+<center>I&rsquo;ve taken a look at the latest numbers, and I have important advice to share with homebuyers and sellers in the Harrisonburg area. Here&rsquo;s what you need to know about the 2020 market.</center>
+
+&nbsp;
 
 Before we know it, the spring market will be upon us. If you are thinking about buying or selling in 2020, now is the time for us to be getting together to plan for it, and here’s why:
 
