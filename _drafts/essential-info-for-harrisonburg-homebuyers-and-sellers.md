@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/cohen-youtube-4.jpg
 youtube_code: 7bSE1UzUADk
 ---
 
-{% include youtube.html %}I’ve taken a look at the latest numbers, and I have important advice to share with homebuyers and sellers in the Harrisonburg area. Here’s what you need to know about the 2020 market.
+{% include youtube.html %}<center>I’ve taken a look at the latest numbers, and I have important advice to share with homebuyers and sellers in the Harrisonburg area. Here’s what you need to know about the 2020 market.</center>
 
 Before we know it, the spring market will be upon us. If you are thinking about buying or selling in 2020, now is the time for us to be getting together to plan for it, and here’s why:
 
