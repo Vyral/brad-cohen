@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Info for Harrisonburg Homebuyers and Sellers
-date: 2020-02-13 16:16:53
+date: 2020-02-13 16:16:00
 tags:
 excerpt: >-
   I’ve taken a look at the latest numbers, and I have important advice to share
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cohen-youtube-4.jpg
-youtube_code: 7bSE1UzUADk
+youtube_code: aNfgQ1iVlpE
 ---
 
 {% include youtube.html %}
