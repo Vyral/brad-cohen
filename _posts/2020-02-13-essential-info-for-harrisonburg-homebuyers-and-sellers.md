@@ -12,7 +12,7 @@ pullquote: It’s never too early to get your financing in order.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cohen-youtube-5.jpg
+youtube_alternate_image: /uploads/cohen-youtube-6.jpg
 youtube_code: 8xFDa-Px2jI
 ---
 
