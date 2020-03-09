@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code: qSr-iyx9cYY
 ---
 
-{% include youtube.html %}Our market is unprecedented right now, and it’s a great time to buy or sell.&nbsp;
+{% include youtube.html %}<center>Our market is unprecedented right now, and it’s a great time to buy or sell.&nbsp;</center>
 
 What we’re experiencing in our market is unprecedented. Never before have we had such a strong seller’s market while simultaneously experiencing such good buying conditions.&nbsp;
 
