@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I’m Here for You
-date: 2020-03-26 14:54:21
+date: 2020-03-26 14:54:00
 tags:
 excerpt:
 enclosure:
@@ -15,4 +15,4 @@ youtube_code: 9MjuYybpXc4
 
 {% include youtube.html %}
 
-Today’s message is simple: I’m here for you during these challenging times. Whether you need real estate advice, financial advice, personal advice, or just need a quick favor, my entire network is at your disposal. Times are hard, but we’ll get through this together.
+Today’s message is simple: I’m here for you during these challenging times. Whether you need real estate advice, financial advice, personal advice, or just a quick favor, my entire network is at your disposal. Times are hard, but we’ll get through this together. To see my full message, watch this short video.&nbsp;
