@@ -5,7 +5,8 @@ date: 2022-02-01 00:00:00
 tags:
   - Market Update
 excerpt: Here are my top three predictions for our real estate market in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/My+Top+3+Predictions+for+the+2022+Real+Estate+Market.mp4
 pullquote: Interest rates have already started to rise.
 enclosure_type: video/mp4
 enclosure_time:
