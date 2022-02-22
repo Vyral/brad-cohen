@@ -4,9 +4,9 @@ title: 3 Reasons It’s an Excellent Time To Buy
 date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
-excerpt: 'Let’s acknowledge a simple truth: It’s frustrating to be a buyer right now.'
+excerpt: Despite ongoing market conditions, it’s still a good time to buy a home
 enclosure:
-pullquote: Despite ongoing market conditions, it’s still a good time to buy a home.
+pullquote: 'Let’s acknowledge a simple truth: It’s frustrating to be a buyer right now.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
