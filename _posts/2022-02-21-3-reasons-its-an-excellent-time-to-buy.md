@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Reasons It’s an Excellent Time To Buy
+title: Why You Should Still Buy a Home Now
 date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-17-cohen-youtube.jpg
-youtube_code: 5MHcuO0j59U
+youtube_code: iTmkW2Q312Q
 ---
 {% include youtube.html %}
 
