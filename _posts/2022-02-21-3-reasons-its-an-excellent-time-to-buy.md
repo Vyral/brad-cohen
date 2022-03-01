@@ -5,7 +5,8 @@ date: 2022-02-21 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Despite ongoing market conditions, it’s still a good time to buy a home
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Why+You+Should+Still+Buy+a+Home+Now.mp4
 pullquote: 'Let’s acknowledge a simple truth: It’s frustrating to be a buyer right now.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: iTmkW2Q312Q
 ---
 {% include youtube.html %}
 
-A recent poll from Fannie Mae showed that only 25% of respondents felt that it was a good time to buy a home. The highest demographic that responded negatively was those aged 18 to 34—only 15% of them felt it was a good time to buy. We all know that interest rates and prices have been increasing for the last two years, so is it still a good time to buy a home?&nbsp;
+A recent poll from Fannie Mae showed that only 25% of respondents felt that it was a good time to buy a home. The highest demographic that responded negatively was those aged 18 to 34—only 15% of them felt it was a good time to buy. We all know that interest rates and prices have been increasing for the last two years, so is it still a good time to buy a home?
 
 First, let’s acknowledge a simple truth: It’s frustrating to be a buyer right now. I feel for everyone who’s had to hear that their offer hasn’t been accepted, whether they’ve heard it once or five times. The lower end of the market has been squeezed the most by price and interest rate escalation, and they also face the most competition. However, **it’s still a great time to buy a house,** despite the current market conditions, and here are three reasons why:
 
@@ -25,8 +26,8 @@ First, let’s acknowledge a simple truth: It’s frustrating to be a buyer righ
 
 {% include pullquote.html %}
 
-**3\. Renting is more expensive than owning.** Rents in our area have continued to climb at a much more dramatic rate than home purchasing affordability. Yes, home prices and rates have been ticking up, and that affects affordability, but if you look at Harrisonburg and Rockingham counties, most of the time, the cost to rent is much higher compared to the payment to purchase the same house. As our real estate market continues to change, those costs will be passed on to tenants more than they’ll affect homeowners. Remember that a mortgage payment puts equity back into your pocket and is a form of a forced savings plan. Paying rent is just paying your landlord’s mortgage.&nbsp;
+**3\. Renting is more expensive than owning.** Rents in our area have continued to climb at a much more dramatic rate than home purchasing affordability. Yes, home prices and rates have been ticking up, and that affects affordability, but if you look at Harrisonburg and Rockingham counties, most of the time, the cost to rent is much higher compared to the payment to purchase the same house. As our real estate market continues to change, those costs will be passed on to tenants more than they’ll affect homeowners. Remember that a mortgage payment puts equity back into your pocket and is a form of a forced savings plan. Paying rent is just paying your landlord’s mortgage.
 
-While it’ll probably be frustrating to buy a home in our present market, the long-term benefits will be completely worth it. Don’t believe every headline you read; always look to your local professionals to help you navigate the market, especially when it’s a tough market.&nbsp;
+While it’ll probably be frustrating to buy a home in our present market, the long-term benefits will be completely worth it. Don’t believe every headline you read; always look to your local professionals to help you navigate the market, especially when it’s a tough market.
 
 If you have any questions about buying in today’s market or real estate in general, always feel free to reach out to me via text or email. I would love to help you.
