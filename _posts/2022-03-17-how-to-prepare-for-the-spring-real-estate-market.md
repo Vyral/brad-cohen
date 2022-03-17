@@ -14,6 +14,8 @@ youtube_code: tm9nblQFA3A
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 This is the time of year when home sellers start asking me how to get their properties ready for the market. We’re in a weird climate right now. The typical curb-appeal tips like sprucing up the yard and updating your landscaping are always going to be in play, but when it comes to making home improvements, you may not have to do a whole lot of updating.
 
 **I can tailor advice based on your specific situation in the market, but here are a few things I always recommend sellers do in the spring market:**
