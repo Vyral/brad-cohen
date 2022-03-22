@@ -9,7 +9,7 @@ pullquote: The big-ticket upgrades aren’t necessary in this market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/03-15-cohen-youtube.jpg
+youtube_alternate_image: /uploads/03-15-cohen-youtube-1.jpg
 youtube_code: tm9nblQFA3A
 ---
 {% include youtube.html %}
