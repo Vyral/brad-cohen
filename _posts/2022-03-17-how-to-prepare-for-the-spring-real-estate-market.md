@@ -29,5 +29,3 @@ This is the time of year when home sellers start asking me how to get their prop
 {% include pullquote.html %}
 
 When you’re preparing for the spring market, being aware of current conditions is always the most important thing. If you’re thinking about prepping your home for the spring market, I’d love to give you some specific tips for your specific situation. Just give me a call or send me an email today. I’d be happy to answer any questions you might have.
-
-Teaser: Spring is here, and homeowners have started reaching out to us. Most of them want to know what they should be doing to prepare their homes for the market. We’re in a unique market where you don’t really need to make the big-ticket upgrades to get a high sale price. For example, adding a fresh coat of paint will attract more buyers without costing an arm and a leg. To get my top tips for preparing your home for sale this spring, watch this short video.
