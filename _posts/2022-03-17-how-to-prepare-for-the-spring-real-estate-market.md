@@ -4,7 +4,8 @@ title: How To Prepare for the Spring Real Estate Market
 date: 2022-03-17 00:00:00
 tags:
 excerpt: Here are my best tips for home sellers who are preparing for the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/How+To+Prepare+for+the+Spring+Real+Estate+Market.mp4
 pullquote: The big-ticket upgrades aren’t necessary in this market.
 enclosure_type: video/mp4
 enclosure_time:
