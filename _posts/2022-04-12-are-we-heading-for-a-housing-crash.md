@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-29-cohen-youtube.jpg
-youtube_code: 4EpXnM
+youtube_code: zsqo_4EpXnM
 ---
 {% include youtube.html %}
 
@@ -19,7 +19,7 @@ youtube_code: 4EpXnM
 
 Recently, a client asked me if I thought our housing market would crash this year. A lot is happening in the news, so I understand the concern. However, I don’t believe a crash is coming, and I want to share why that is.&nbsp;
 
-Before I talk about 2022, I want to mention that people had similar concerns about a crash in 2021. In hindsight, we can see that instead of slowing down, the housing market took off in historic fashion. It turns out **the same factors driving last year’s market are still present today. **
+Before I talk about 2022, I want to mention that people had similar concerns about a crash in 2021. In hindsight, we can see that instead of slowing down, the housing market took off in historic fashion. It turns out **the same factors driving last year’s market are still present today.**
 
 {% include pullquote.html %}
 
