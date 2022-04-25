@@ -5,7 +5,8 @@ date: 2022-04-12 00:00:00
 tags:
   - Market Update
 excerpt: 'Why a crash is very unlikely with our current market conditions. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Why+a+Market+Crash+Isn't+Likely.mp4
 pullquote: 'We aren’t heading for a crash anytime soon. '
 enclosure_type: video/mp4
 enclosure_time:
