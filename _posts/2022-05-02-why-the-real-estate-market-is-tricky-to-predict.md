@@ -5,7 +5,8 @@ date: 2022-05-02 15:14:00
 tags:
   - Market Update
 excerpt: A few reasons why it’s hard to time the market, and why you shouldn’t try.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/Why+the+Real+Estate+Market+Is+Tricky+To+Predict.mp4
 pullquote: >-
   The market is hard to predict because real estate consists largely of lagging
   data. 
