@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: 'Here are four ways you can buy and sell a home at the same time. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Cohen/2022/How+To+Buy+and+Sell+a+Home+Simultaneously.mp4
 pullquote: 'Each option has its pros and cons. '
 enclosure_type: video/mp4
 enclosure_time:
