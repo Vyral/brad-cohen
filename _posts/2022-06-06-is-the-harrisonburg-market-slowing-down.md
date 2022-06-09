@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-02-cohen-youtube.jpg
-youtube_code: JWWbf0YDtPI
+youtube_code: eWK6e2NqLws
 ---
 {% include youtube.html %}
 
