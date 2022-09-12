@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are We Seeing More Foreclosures?
-date:
+date: 2022-09-12 07:00:00
 tags:
   - Home Buyer Tips
 excerpt: What will happen now that the moratorium on foreclosures has ended?
