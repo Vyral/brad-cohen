@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Run a Great Short-Term Rental
-date: 2022-09-30 07:00:00
+date: 2022-09-29 07:00:00
 tags:
   - Real Estate
 excerpt: Three tips to help you run an amazing Airbnb in the Shenandoah Valley.
