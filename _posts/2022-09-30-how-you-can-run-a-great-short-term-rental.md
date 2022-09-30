@@ -17,7 +17,7 @@ youtube_code: O_DY5GMRUc4
 
 {% include excerpt.html %}
 
-Did you know that the Shenandoah valley was recently voted one of the hottest short-term rental markets in the country? These types of rentals are a critical part of our local market, so today I’ll share a few tips to help you run one:
+Did you know that the Shenandoah valley was recently voted one of the hottest short-term rental markets in the country? These types of rentals are a critical part of our local market. Here are a few tips to help you run one:
 
 **1\. Understand local ordinances.** You need to know the rules around running an Airbnb because some areas are more restrictive than others. For example, in Harrisonburg, you need to use your primary residence and own a special-use permit to run an Airbnb.&nbsp;
 
