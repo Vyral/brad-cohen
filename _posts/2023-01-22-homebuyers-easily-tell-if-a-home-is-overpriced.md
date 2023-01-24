@@ -21,7 +21,7 @@ Have you been out looking to purchase a home? You may have seen several and thou
 
 The first thing we have to consider is inflation. With skyrocketing inflation, prices for everything have increased dramatically. When you look at even the cost of essential goods, like eggs, would you also say that they are overpriced? Would you stop buying eggs? While some might, the reality is that **people are still buying even in this market.**
 
-It’s a fact that prices have stabilized, and the number of home sales has declined. This is because affordability was dramatically affected by the doubling of interest rates over the last year. This has made the monthly payment on an average home several hundred dollars more expensive. In the eyes of the purchaser, This makes the home overpriced because of that increased cost. Is it really?
+It’s a fact that prices have stabilized, and the number of home sales has declined. This is because affordability was dramatically affected by the doubling of interest rates over the last year. This has made the monthly payment on an average home several hundred dollars more expensive. In the eyes of the purchaser, this makes the home overpriced because of that increased cost. Is it really?
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ In order for buyer demand to have a significant impact on home prices, it would 
 
 The good news is that inflationary pressure is decreasing, which has meant that mortgage rates are declining somewhat. If that trend continues, it would be good for real estate in general. That said, don’t expect interest rates to return to the 3% range anytime soon. We should put that out of memory.
 
-So is that home that you’ve been looking at overpriced? It might be. There are still overpriced homes on the market. But it might just be the perceptions of the consumer that make it seem so. If you have a question about the value of a specific property, even your own, please reach out to me. I am always happy to help with all of your real estate needs.
+So is that home that you’ve been looking at overpriced? It might be. There are still overpriced homes on the market. But it might just be the perceptions of the consumer that make it seem so. If you have a question about the value of a specific property, even your own, please call or email me. I am always happy to help with all of your real estate needs.
