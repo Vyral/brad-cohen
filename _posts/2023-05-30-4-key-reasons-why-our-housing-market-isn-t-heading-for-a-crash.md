@@ -12,7 +12,7 @@ pullquote: Low inventory is keeping our market in check.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/05-26-cohen-email.jpg
 youtube_code: xrl3-DFQ8B8
 ---
 {% include youtube.html %}
