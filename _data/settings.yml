@@ -17,7 +17,7 @@ client:
   name: Brad Cohen
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Brad Cohen balances extensive real estate market knowledge and expertise
     with personality and a fun-loving approach to provide his clients with a
     simply better buying and selling experience. His charm and wit are
@@ -38,7 +38,7 @@ client:
     and beyond. Contact him anytime at 540-830-7239 or visit
     brad@bradcohenhomes.com
   market: Harrisonburg
-  brand: Harman Realty
+  brand:
   brokerage:
   address: 1741 A Virginia Ave, Harrisonburg, VA 22801
   phone: 540-830-7239
@@ -138,7 +138,7 @@ buttons:
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: rgba(0, 0, 0, 0)
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: rgba(0, 0, 0, 0)
